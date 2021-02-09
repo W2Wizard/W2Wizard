@@ -4,8 +4,15 @@ I mainly focus on game engines and been working with UE4 for almost 5 years now!
 
 My favorite languanges:
 
-<code><img height="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fc--logo-icon-0.png&f=1&nofb=1"></code>
-<code><img height="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fc-logo-icon-18.png&f=1&nofb=1"></code>
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+   &nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
+ </p>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=w2wizard&theme=dark&show_icons=true)
 
