@@ -1,7 +1,13 @@
-### Hi there 👋
+### You have found the great Wizard 🧙
+
+I mainly focus on game engines and been working with UE4 for almost 5 years now!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w2wizard)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **W2Wizard/W2Wizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+📈 My GitHub Stats
 
 Here are some ideas to get you started:
 
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
