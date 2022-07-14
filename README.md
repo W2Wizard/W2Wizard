@@ -1,8 +1,11 @@
 ### You have found the great Wizard 🧙
 
-I mainly focus on game engines and game development! I also have been using Unreal for quite a while.
+I'm a 21 year old student currently studying in Amsterdam @ [Codam Coding College](https://github.com/codam-coding-college).
+I have a keen interest in graphics programming and game development as well as creating new tools that mean something.
 
-My favorite languanges:
+Currently working on maintaining [MLX42](https://github.com/codam-coding-college/MLX42) and implementing the [Galaxygraph](https://github.com/W2Wizard/GalaxyGraph).
+
+My favorite languages:
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
