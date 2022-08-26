@@ -1,9 +1,15 @@
 ### You have found the great Wizard 🧙
 
-I'm a 21 year old student currently studying in Amsterdam @ [Codam Coding College](https://github.com/codam-coding-college).
+I'm a 21 year old student in Amsterdam @ [Codam Coding College](https://github.com/codam-coding-college).
 I have a keen interest in graphics programming and game development as well as creating new tools that mean something.
 
-Currently working on maintaining [MLX42](https://github.com/codam-coding-college/MLX42) and implementing the [Galaxygraph](https://github.com/W2Wizard/GalaxyGraph).
+Also doing some web stuff on the side for fun.
+
+My favorite qoutes:
+
+> An idiot admires complexity, a genius admires simplicity” - Terry A Davis
+
+> The reason code gets worse and worse in a lot of these systems is that people are afraid of breaking old things so they go in and every new thing is like an accretion on the old thing, and sometimes you just have to go in and clean it out!  … Sledgehammer programming … - Jonathan Blow
 
 My favorite languages:
 <p align="left">
@@ -30,19 +36,3 @@ My favorite languages:
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w2wizard&theme=dark&layout=compact) -->
 
 <!--![Metrics](https://metrics.lecoq.io/W2Wizard) -->
-
-<!--
-**W2Wizard/W2Wizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-📈 My GitHub Stats
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
