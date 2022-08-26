@@ -7,9 +7,11 @@ Also doing some web stuff on the side for fun.
 
 My favorite qoutes:
 
-> An idiot admires complexity, a genius admires simplicity” - Terry A Davis
+> "An idiot admires complexity, a genius admires simplicity” - Terry A Davis
 
-> The reason code gets worse and worse in a lot of these systems is that people are afraid of breaking old things so they go in and every new thing is like an accretion on the old thing, and sometimes you just have to go in and clean it out!  … Sledgehammer programming … - Jonathan Blow
+> "If you complain too much about the tool, you should make one from scratch" - Terry A Davis
+
+> "The reason code gets worse and worse in a lot of these systems is that people are afraid of breaking old things so they go in and every new thing is like an accretion on the old thing, and sometimes you just have to go in and clean it out!  … Sledgehammer programming …" - Jonathan Blow
 
 My favorite languages:
 <p align="left">
