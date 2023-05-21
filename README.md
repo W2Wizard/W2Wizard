@@ -1,6 +1,6 @@
 ### You have found the great Wizard 🧙
 
-I'm a 21 year old student in Amsterdam @ [Codam Coding College](https://github.com/codam-coding-college).
+I'm a student in Amsterdam @ [Codam Coding College](https://github.com/codam-coding-college).
 I have a keen interest in graphics programming and game development as well as creating new tools that mean something.
 
 Also doing some web stuff on the side for fun.
