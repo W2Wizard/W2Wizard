@@ -6,7 +6,7 @@
 
 ---
 
-- Fellow `C`, `C#`, `Typescript`, enjoyer
+- Fellow `C`, `C++`, `C#`, `Typescript` & `Rust` enjoyer
 - Unreal Engine 4/5 lover
 - SvelteKit Fanatic
 
@@ -18,13 +18,10 @@ My favorite qoutes:
 
 > "The reason code gets worse and worse in a lot of these systems is that people are afraid of breaking old things so they go in and every new thing is like an accretion on the old thing, and sometimes you just have to go in and clean it out!  … Sledgehammer programming …" - Jonathan Blow
 
-<p float="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=w2wizard&theme=dark&show_icons=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w2wizard&theme=dark&layout=compact" height="150"/> 
-</p>
+</div>
 
 <!--![stats](https://github-readme-stats.vercel.app/api?username=w2wizard&theme=dark&show_icons=true) -->
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w2wizard&theme=dark&layout=compact) -->
-
-<!--![Metrics](https://metrics.lecoq.io/W2Wizard) -->
