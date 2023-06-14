@@ -1,14 +1,17 @@
 </br>
 <div align="center">
-  <pre><code>The Wizard in Things</code></pre>
-  <sub>Visit my <a href="https://portfolio.w2wizard.dev/">Portfolio</a>, student at <a href="https://github.com/codam-coding-college">Codam Coding College</a></sub>
+  <pre><code> ✨ The Wizard in Things ✨ </code></pre>
+  <sub>Visit my <a href="https://portfolio.w2wizard.dev/">Portfolio</a>, <a href="https://github.com/codam-coding-college">Codam Coding College</a> also I'm a <a href="https://kit.svelte.dev">SvelteKit Addict</a></sub>
 </div>
 
 ---
 
-- Fellow `C`, `C++`, `C#`, `Typescript` & `Rust` enjoyer
-- Unreal Engine 4/5 lover
-- SvelteKit Fanatic
+<div align="center">
+  <h4>I ♥️ </h4>
+  <img src="https://skillicons.dev/icons?i=svelte,unreal,ts,html,css,rust,docker,github,git,githubactions,nginx,sqlite,sentry,vite,zig,c,cs,cpp,cmake,cloudflare,dotnet,discord,)" />
+</div>
+
+---
 
 My favorite qoutes:
 
