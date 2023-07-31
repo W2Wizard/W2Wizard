@@ -8,7 +8,7 @@
 
 <div align="center">
   <h4>I ♥️ </h4>
-  <img src="https://skillicons.dev/icons?i=svelte,unreal,ts,html,css,rust,docker,github,git,githubactions,nginx,sqlite,sentry,vite,zig,c,cs,cpp,cmake,cloudflare,supabase,dotnet,discord,)" />
+  <img src="https://skillicons.dev/icons?i=svelte,unreal,ts,html,css,rust,docker,github,git,githubactions,nginx,sqlite,sentry,vite,zig,c,cs,cpp,md,cmake,cloudflare,dotnet,discord,)" />
 </div>
 
 ---
