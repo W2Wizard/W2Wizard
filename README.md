@@ -13,7 +13,7 @@
 
 ---
 
-My favorite qoutes:
+My favorite quotes:
 
 > "An idiot admires complexity, a genius admires simplicity” - Terry A Davis
 
